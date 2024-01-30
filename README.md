@@ -1,2 +1,1 @@
-Scripts written in Python for:
-minor Data Science tasks, text analysis.
+Snippets written for: minor Data Science tasks, text analysis, etc.
